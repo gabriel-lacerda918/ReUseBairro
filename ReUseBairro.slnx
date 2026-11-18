@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/ReUseBairro.Api/ReUseBairro.Api.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/ReUseBairro.Tests/ReUseBairro.Tests.csproj" />
+  </Folder>
+</Solution>
