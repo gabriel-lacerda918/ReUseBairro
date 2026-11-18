@@ -14,7 +14,7 @@ créditos comunitários e rotas de coleta.
 - **Problema:** O descarte irregular de eletrônicos, móveis e sobras de obra entope bueiros e degrada o bairro porque o cidadão não sabe como destinar pequenos volumes e os catadores não sabem onde há material.
 - **Como funciona:** PEVs em comércios/escolas + app que conecta ofertas a coletores por proximidade, com estimativa de valor e créditos comunitários trocáveis no comércio local.
 - **Papel de cada parte:** Sensores nos PEVs (simulados via API de depósito) · IA de estimativa (interface `IEstimadorValor`, implementação por tabela, extensível a visão computacional) · Backend C# (match, rotas, carteira) · App mobile (consumidor futuro desta API).
-- **Repositório:** [URL DO GITHUB]
+- **Repositório:** https://github.com/gabriel-lacerda918/ReUseBairro
 - **Indicador de impacto:** kg desviados e renda estimada dos coletores (`GET /api/impacto`).
 - **ODS:** 11, 12 e 8.
 
